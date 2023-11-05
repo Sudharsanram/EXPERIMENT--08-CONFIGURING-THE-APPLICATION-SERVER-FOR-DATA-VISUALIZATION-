@@ -14,25 +14,20 @@ As the application server market matures, high performance becomes a stronger cr
  2.  click on the Application server as shown below 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/47c2e08d-6598-4437-8b07-f213d6f3b8ac)
  3.Click on the Add dashboard option as shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8006c218-4cfd-48b8-b0f1-34fd29f0a181)
+ ![280460561-03a60803-4681-4cc2-ade0-73e28601318d](https://github.com/Sudharsanram/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119393980/10d45283-4280-4a0e-a883-a6160b1ed0c0)
  4.After creating dash board , using the edit option on the right corner  add the widgets as shown 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/16621142-3281-4164-9927-65bf4e1ea13d)
-
+ ![280460663-2188b0ab-eb07-4ce9-972d-9c50753ed054](https://github.com/Sudharsanram/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119393980/65ec61e3-6bc2-404b-a9c3-c9544cebd186)
 5. After addition of the widget on the data dash board the data should appear as shown belwo 
  ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/f9f02c5b-ae17-436f-be3a-17c5e66d63a0)
 6. Create a query as shown below 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/ceead64a-e6a1-403d-864e-2526f8b39930)
+![244159469-ceead64a-e6a1-403d-864e-2526f8b39930](https://github.com/Sudharsanram/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119393980/b48f978f-dc1a-4aef-81f0-8d339a619062)
 7. Using the visualization editor modify as per the requirements 
- ![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/4becc339-c77e-4568-9b79-aeaed3734169)
+![280460763-33f5fe61-16a5-4f46-b635-6f2569c1f7b7](https://github.com/Sudharsanram/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119393980/94c683da-a714-421f-928f-839acd014003)
 8. save to update the visualization on the dashboard as shown in the output 
 
-
 ## OUTPUT 
+![280460748-30b18a0d-6970-40e0-94b6-9a9a583d12ee](https://github.com/Sudharsanram/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/119393980/5871b7b3-f88c-45af-87b0-5d1ef09f5761)
  
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
-
-
-
 ## Results: 
 
   The Application  server and network server data is add on the data dashboard using visualiztion editor 
